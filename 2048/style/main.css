@@ -45,6 +45,7 @@ h1.title {
     top: -50px;
     opacity: 0; } }
 .scores-container {
+  display: none;
   float: right;
   text-align: right; }
 
